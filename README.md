@@ -18,6 +18,7 @@ New application allowing producers to connect to facilitate the home alcohol tra
 -HTML/CSS  
 -PostgreSQL  
 -Git/GitHub  
--Heroku & New Domain  
--Rubocop
+-Heroku 
+-New Domain  
+
  
