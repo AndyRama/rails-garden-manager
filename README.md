@@ -117,18 +117,3 @@ At this stage I had everything I needed to start coding and the above resources 
 
 [Back To Top](#Table-Of-Contents)
 =======
-# URL  
-http://www.manage-garden.xyz/
-
-# About
-New application allowing producers to connect to facilitate the home alcohol trade between individuals.
-
-# Technologies used
--Ubuntu 18.04  
--Ruby 2.6.6  
--Rails 6.0.0  
--JavaScript  
--HTML/CSS  
--PostgreSQL  
--Git/GitHub  
--Heroku & New Domain  
