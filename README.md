@@ -4,7 +4,7 @@
 # Base
 Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
 
-# Manage garden
+# Description
 Movie nomination website created as part of the application process for the Shopify Front-End Developer Internship.
 # [🔗 View Deployed Version](http://www.manage-garden.xyz/gardens/new/)
 
