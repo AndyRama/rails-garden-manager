@@ -4,8 +4,6 @@
 # Base
 Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
 
-<<<<<<< HEAD
-
 # Manage garden
 Movie nomination website created as part of the application process for the Shopify Front-End Developer Internship.
 # [🔗 View Deployed Version](http://www.manage-garden.xyz/gardens/new/)
@@ -134,6 +132,3 @@ New application allowing producers to connect to facilitate the home alcohol tra
 -PostgreSQL  
 -Git/GitHub  
 -Heroku & New Domain  
-
- 
->>>>>>> bfbb82c81c10fe9c6921d9568d1b4cb49d02e439
