@@ -4,7 +4,6 @@
 # Base
 Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
 
-<<<<<<< HEAD
 
 # Manage garden
 Movie nomination website created as part of the application process for the Shopify Front-End Developer Internship.
@@ -118,22 +117,3 @@ At this stage I had everything I needed to start coding and the above resources 
 * Sharing: I would like to add a way to share the winner results to social media.  
 
 [Back To Top](#Table-Of-Contents)
-=======
-# URL  
-http://www.manage-garden.xyz/
-
-# About
-New application allowing producers to connect to facilitate the home alcohol trade between individuals.
-
-# Technologies used
--Ubuntu 18.04  
--Ruby 2.6.6  
--Rails 6.0.0  
--JavaScript  
--HTML/CSS  
--PostgreSQL  
--Git/GitHub  
--Heroku & New Domain  
-
- 
->>>>>>> bfbb82c81c10fe9c6921d9568d1b4cb49d02e439
