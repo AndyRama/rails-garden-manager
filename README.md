@@ -6,7 +6,8 @@ Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/ra
 
 
 # Manage garden
-Movie nomination website created as part of the application process for the Shopify Front-End Developer Internship.
+Manage garden is an interface allowing to create a garden composed of several plants.
+
 # [🔗 View Deployed Version](http://www.manage-garden.xyz/gardens/new/)
 
 ## Table Of Contents
@@ -14,28 +15,20 @@ Movie nomination website created as part of the application process for the Shop
 * [My Approach](#My-Approach) 
 * [Tech Used](#Tech-Used) 
 * [Feature Highlights](#Feature-Highlights)
-* [Future Additions](#Future-Additions)
 
 ---
 ## The Challenge
 
-Create a webpage that can search OMDB for movies, and allow the user to save their favourite films they feel should be up for nomination. When they've selected 5 nominees they should be notified they're finished.
+Create a web page where you can create your garden, add plants. Integrate a hotjar API to see the user journey on the site. 
 
 ### Requirements 
 * Simple to use interface.
-* The ability search the OMDB API and return a list of movies that show at least the title, release year and a button to nominate them. 
-* Search results should only be of movies.
-* Updates to the search terms should update the result list.
-* If a movie has been nominated already, it's button should be disabled within in search results. 
-* Nominated movies should move to their own "Nomination List".
-* Movies in the nomination list should be able to be removed.
-* Display a banner when the user has 5 nominations.
+* User can create a garden 
+* User can add plants to new garden
+* Updates to garden of plants.
 
 ### Provided Reference Image 
 ![Reference Image](./readme-assets/reference-image.png)
-
-### Extras
-Improvements to design and functionality are allowed to be added in order to highlight passion and skills.
 
 [Back To Top](#Table-Of-Contents)
 
@@ -44,26 +37,17 @@ Improvements to design and functionality are allowed to be added in order to hig
 ## My Approach 
 
 ### 1. Feature list
-Using Trello I created a checklist of the requirements and then some initial ideas I had for things to add. This let me keep on top of production against the deadline and quickly capture/prioritize new ideas while I was working. For this site I just used a single card, but for larger projects I would break up tasks into separate card on a larger kanban board. 
+Using Trello I created a checklist of the requirements and then some initial ideas I had for things to add. This let me keep on top of production against the deadline and quickly capture/prioritize new ideas while I was working. 
 
 #### Key Features
-* Ensure user friendly error handling for search
-* Give users the option to search for series or movies 
-* Create new copy (text) for the design that matches the marketing site
+* Give users the option to create a garden 
+* Give users the option to create a garden 
+* Give users the option to create a garden 
 * Create a custom and dynamic responsive layout 
 * Add CSS Animations throughout
-* Have a winner be selected at the end 
-* Create authentication so people can't view the winner page on their own
-* Make app into a PWA 
-* Have the nomination list persist with Local Storage 
-* Show expanded information for nominated films 
-* Have nominated films link to their IMDB page
-* Use a Loader/Spinner when querying the API for search or nominating 
 * Add Open Graph and Twitter assets for sharing to social media 
 
 ![Reference Image](./readme-assets/trello-card.png)
-
-
 
 ### 2 — Research
 I knew from the beginning that one of the key areas I wanted to play with was the design and keep it within family of the existing brand. This way the nomination site would have the trust of the Shopify brand and the winner would carry more impact. (Plus I really love the branding and wanted an opportunity to apply it in a project.) 
@@ -110,10 +94,3 @@ At this stage I had everything I needed to start coding and the above resources 
 [Back To Top](#Table-Of-Contents)
 
 ---
-
-## Future Additions
-* Bug: On firefox the content sometimes causes sideways scrolling for a few seconds. 
-* Animation: Currently I hide overflow for the main wrapper, while the green nomination block comes in, then after a second turn it back on. I would like to find a different solution for this in the future. This can take a hit on performance since `overflow` applies earlier in the page rendering process, requiring more resources.
-* Sharing: I would like to add a way to share the winner results to social media.  
-
-[Back To Top](#Table-Of-Contents)
