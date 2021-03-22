@@ -4,15 +4,10 @@
 # Base
 Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
 
-<<<<<<< HEAD
 
 # Manage garden
 Manage garden is an interface allowing to create a garden composed of several plants.
 
-=======
-# Description
-Movie nomination website created as part of the application process for the Shopify Front-End Developer Internship.
->>>>>>> 656c78e24994daa0911ea023309c5766d0e4dc9b
 # [🔗 View Deployed Version](http://www.manage-garden.xyz/gardens/new/)
 
 ## Table Of Contents
@@ -99,14 +94,3 @@ At this stage I had everything I needed to start coding and the above resources 
 [Back To Top](#Table-Of-Contents)
 
 ---
-<<<<<<< HEAD
-=======
-
-## Future Additions
-* Bug: On firefox the content sometimes causes sideways scrolling for a few seconds. 
-* Animation: Currently I hide overflow for the main wrapper, while the green nomination block comes in, then after a second turn it back on. I would like to find a different solution for this in the future. This can take a hit on performance since `overflow` applies earlier in the page rendering process, requiring more resources.
-* Sharing: I would like to add a way to share the winner results to social media.  
-
-[Back To Top](#Table-Of-Contents)
-=======
->>>>>>> 656c78e24994daa0911ea023309c5766d0e4dc9b
