@@ -4,7 +4,6 @@
 # Base
 Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
 
-
 # Manage garden
 Manage garden is an interface allowing to create a garden composed of several plants.
 
