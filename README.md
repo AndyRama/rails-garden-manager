@@ -86,9 +86,7 @@ At this stage I had everything I needed to start coding and the above resources 
 * CSS Animations
 * CSS Grids
 * Flexbox
-* Figma
 * heroku
-* Trello
 
 [Back To Top](#Table-Of-Contents)
 
